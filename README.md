@@ -1,6 +1,13 @@
 # Skier-Game
 
-This Game is made in python 
+•	This Game is made in Python.
+
+•	It is made using a very popular library of python called Pygame
+
+A brief description of Pygame :-Pygame is a free and open source cross-platform library for the development of multimedia platforms like video games.
+
+•	It is also made using different data structures and algorithms just like Linked-List,Arrays,Depth-First-Search(DFS),Collision-Detection Algorithms,Dyanmic Programming etc.
+
 
 
 
